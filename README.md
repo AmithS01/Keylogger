@@ -1,2 +1,19 @@
 # Keylogger
 Well... A keylogger thats supposed to be free and need to go under a lotta new updates...
+
+## How to use :
+1. Download the raw file or a rar file from github...
+
+2. Uncheck it from blocked list in windows... can assure that there is no virus in the code...
+
+3. Run it on the target computer.
+
+4. Check back mlater for *haunt.txt* for the logs.
+
+## Uses :
+1. Can check if your kids are into things they shouldn't have been into...
+2. Your wish... just dont mess up anyone's private lyfe... 
+
+## I ain't taking any responsibility for misuse of this keylogger... It's purely educational...
+
+You are free to use this link or app until i get the credits... lol
